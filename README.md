@@ -22,3 +22,4 @@ When computing a jackknife, the standard error has to be inflated by a factor th
 
 Another thing to consider is that the jackknife is more restrictive than the bootstrap in the sense that there are more families of estimators that fail the jackknife but still work while bootstrapping. The median is one classical example of this.
 
+[Bootstrapping error in the median](https://github.com/patogallardo/resampling_techniques/blob/master/Uncertainty%20in%20the%20median.ipynb)
